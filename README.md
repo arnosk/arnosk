@@ -20,6 +20,10 @@ For more about my background visit my profile on [LinkedIn](https://www.linkedin
 
 Or my contribution to FreeLords a while ago on [Sourceforge](https://www.sourceforge.net/u/arnoi/profile).
 
+- 🔭 I’m currently working on:
+  - getting crypto portfolio from public addresses with today's prices and the prices on a specific date (1 jan) for tax return in the Netherlands
+
+
 ---
 
 ## &#x1f4c8; GitHub Stats
