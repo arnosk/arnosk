@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **arnosk/arnosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,12 @@ Or my contribution to FreeLords a while ago on [Sourceforge](https://www.sourcef
 - 🔭 I’m currently working on:
   - getting crypto portfolio from public addresses with today's prices and the prices on a specific date (1 jan) for tax return in the Netherlands
 
+<br/><br/>
+***
+## Donations
+
+Donations are welcome!
+- ETH, POLYGON, BNB, PULSE: 0xcF99cB3Be2F279D96B8ebF877aF22e05E58Db001
 
 ---
 
